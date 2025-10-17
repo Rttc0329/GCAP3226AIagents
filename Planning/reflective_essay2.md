@@ -1,8 +1,7 @@
-(# Reflective Essay 2 — Bus Stop Merge & Optimization)
+# Reflective Essay 2 — Bus Stop Merge & Optimization
 
-**Student:** [Your Name]
-
-**Date:** [2025-10-17]
+**Student:** Rttc0329
+**Date:** October 17, 2025
 
 In drafting our government enquiry and developing the Bus Stop Merge project, I learned how data-driven methods shape practical urban planning decisions. Our team focused on whether merging closely spaced stops (e.g., 25m apart) improves operational efficiency without unduly harming accessibility. The roadmap required combining spatial analysis, ridership data collection, and modeling — tasks that exposed gaps between ideal models and available public data.
 
